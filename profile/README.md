@@ -34,7 +34,7 @@ Da SEAI Development crediamo fermamente che:
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-SEAI.digital-blue?style=for-the-badge&logo=globe)](https://seai.digital/)
+[![Website](https://img.shields.io/badge/Website-SEAI.digital-blue?style=for-the-badge&logo=globe)](https://seai.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SEAI--tech-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/seai-tech/)
 
 </div>
